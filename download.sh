@@ -27,6 +27,44 @@ download() {
 done
 }
 
+download teacher-ye-intro /5121/8973/
+download teacher-ye-intro /5121/87089/
+download teacher-ye-intro /5121/54684/
+download teacher-ye-intro /5121/87440/
+download teacher-ye-intro /5121/12822/
+download teacher-ye-intro /5121/8974/
+download teacher-ye-intro /5121/12823/
+download teacher-ye-intro /5121/82988/
+download teacher-ye-intro /5121/8976/
+download teacher-ye-intro /5121/8975/
+download teacher-ye-intro /5121/98925/
+download teacher-ye-intro /5121/8988/
+download teacher-ye-intro /5121/8977/
+download teacher-ye-intro /5121/83268/
+download teacher-ye-intro /5121/8978/
+download teacher-ye-intro /5121/8979/
+download teacher-ye-intro /5121/8980/
+download teacher-ye-intro /5121/101779/
+download teacher-ye-intro /5121/60066/
+download teacher-ye-intro /5121/8981/
+download teacher-ye-intro /5121/85290/
+download teacher-ye-intro /5121/18131/
+download teacher-ye-intro /5121/8982/
+download teacher-ye-intro /5121/8983/
+download teacher-ye-intro /5121/8984/
+download teacher-ye-intro /5121/8985/
+download teacher-ye-intro /5121/18723/
+download teacher-ye-intro /5121/8986/
+download teacher-ye-intro /5121/87090/
+download teacher-ye-intro /5121/38088/
+download teacher-ye-intro /5121/10208/
+download teacher-ye-intro /5121/89562/
+download teacher-ye-intro /5121/89563/
+download teacher-ye-intro /5121/19320/
+download teacher-ye-intro /5121/8987/
+download teacher-ye-intro /5121/10375/
+download teacher-ye-intro /5121/33013/
+download teacher-ye-intro /5121/33809/
 download rin-kaiho-tsumego-the-power-of-reversal /2084/3812/?page=1
 download rin-kaiho-tsumego-the-power-of-reversal /2084/3812/?page=2
 download rin-kaiho-tsumego-the-power-of-reversal /2084/3812/?page=3

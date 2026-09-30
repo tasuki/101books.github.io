@@ -42,6 +42,18 @@ def generate_index():
     
     for category in books:
         books[category].sort(key=level_sort_key)
+        # a hack to group books with same prefix over alphabetical sorting
+        series = [b for b in books[category]
+                  if not re.search(r', Part (?!1$)\d+$', b['title'])]
+        level_prefixes = {}
+        for book in series:
+            level_prefixes.setdefault(level_sort_key(book)[0], set()).add(book['title'].lower()[:10])
+        levels = sorted(level_prefixes)
+        continuations = {(prefix, current) for previous, current in zip(levels, levels[1:])
+                         for prefix in level_prefixes[previous] & level_prefixes[current]}
+        books[category].sort(key=lambda book: (level_sort_key(book)[0],
+            (book['title'].lower()[:10], level_sort_key(book)[0]) not in continuations,
+            book['title'].lower()))
     
     with open('index.html', 'r', encoding='utf-8') as f:
         original = f.read()
